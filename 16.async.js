@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[16],{kjKj:function(n,t,a){"use strict";a.r(t);var e=a("lRau"),o=a.n(e),u=a("q1tI"),r=a.n(u);t["default"]=(()=>{return r.a.createElement(o.a,{to:"/auth/login"})})}}]);
